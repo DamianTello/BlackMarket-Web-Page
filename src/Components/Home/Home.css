@@ -1,0 +1,11 @@
+.home{
+    width: 100%;
+    background-color: black;
+    padding: 0;
+}
+.product-grid{
+    background-color: black;
+    display: flex;
+    height: auto;
+    align-items: center;
+}

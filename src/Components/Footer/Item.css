@@ -1,0 +1,9 @@
+.item p{
+    font-size: 13px;
+
+}
+.item p:hover{
+
+    color: rgb(211, 211, 29);
+
+}

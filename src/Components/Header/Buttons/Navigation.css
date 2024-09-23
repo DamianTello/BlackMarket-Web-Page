@@ -1,0 +1,10 @@
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+}
+
+.navigation h2{
+   
+    color: white;
+}
